@@ -7,7 +7,10 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code updates from Feature -01
+ //Sample Code
+======= Fearture1
+ //Sample Code 
+>>>>>>> Fearture2
 }
 
 
